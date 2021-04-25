@@ -1,3 +1,4 @@
+//Question 3
 function Employee(firstname, lastname,birthdate){ //date format yyyy-mm-dd
     this.firstname = firstname; 
     this.lastname = lastname;
